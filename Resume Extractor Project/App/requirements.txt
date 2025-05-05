@@ -1,0 +1,93 @@
+altair==4.2.0                  # Declarative statistical visualization library for Python.
+attrs==22.1.0                  # Helps create classes with less boilerplate code.
+blinker==1.5                   # Provides a fast dispatching system for signals/events.
+blis==0.7.8                    # Fast matrix operations for machine learning libraries.
+cachetools==5.2.0             # Extensible memoizing collections and decorators.
+catalogue==1.0.0              # Lightweight data structure for function registries.
+certifi==2022.6.15            # Provides Mozilla’s root certificates for secure SSL.
+cffi==1.15.1                  # Interface for calling C code from Python.
+chardet==5.0.0                # Detects character encoding of text data.
+charset-normalizer==2.1.1     # Alternative to chardet for detecting text encodings.
+click==8.1.3                  # Command-line interface creation kit.
+colorama==0.4.5               # Enables cross-platform colored terminal text.
+commonmark==0.9.1             # Converts CommonMark (Markdown) to a structured AST.
+cryptography==37.0.4          # Provides cryptographic recipes and primitives.
+cycler==0.11.0                # Composable cycles for color and style cycling in plots.
+cymem==2.0.6                  # Manages memory in C extensions, used in spaCy.
+decorator==5.1.1              # Simplifies function decorators.
+docx2txt==0.8                 # Extracts text from .docx files.
+entrypoints==0.4              # Allows Python to find and load plugins or extensions.
+fonttools==4.37.2             # Library for manipulating fonts, especially OpenType.
+future==0.18.2                # Enables compatibility between Python 2 and 3.
+geocoder==1.38.1              # Geocoding library for converting locations to coordinates.
+geographiclib==1.52           # Geodesic calculations and conversions.
+geopy==2.2.0                  # Geocoding library built on top of geographiclib.
+gitdb==4.0.9                  # Git object database for GitPython.
+GitPython==3.1.27             # Python interface for Git repositories.
+idna==3.3                     # Supports Internationalized Domain Names in URLs.
+importlib-metadata==4.12.0    # Accesses metadata of installed packages.
+Jinja2==3.1.2                 # Templating engine used in web development.
+joblib==1.1.0                 # For parallel computing and function caching.
+jsonschema==4.15.0            # Validates JSON data against a schema.
+kiwisolver==1.4.4             # Fast implementation of a constraint solver.
+langcodes==3.3.0              # Identifies and matches language codes.
+MarkupSafe==2.1.1             # Escapes text to avoid injection in HTML/XML.
+matplotlib==3.5.3             # 2D plotting library for graphs and charts.
+murmurhash==1.0.8             # Fast non-cryptographic hashing library.
+nltk==3.7                     # Natural language processing toolkit.
+numpy==1.23.2                 # Numerical computing and array operations.
+packaging==21.3               # Tools for parsing and handling package versions.
+pafy==0.5.5                   # Fetches YouTube metadata and video streams.
+pandas==1.4.4                 # Data manipulation and analysis library.
+pathy==0.6.2                  # Pathlib extension for cloud storage and local paths.
+pdfminer.six==20220524        # Extracts text and metadata from PDF files.
+pdfminer3==2018.12.3.0        # Older fork of PDF text extraction tool.
+Pillow==9.2.0                 # Python Imaging Library for image processing.
+plac==1.1.3                   # Simplifies argument parsing for command-line tools.
+plotly==5.10.0                # Interactive plotting library for dashboards and charts.
+preshed==3.0.7                # Efficient memory usage, used by spaCy.
+protobuf==3.20.1              # Protocol buffers for serializing structured data.
+pyarrow==9.0.0                # Python bindings for Apache Arrow (columnar data).
+pycparser==2.21               # Parses and analyzes C code in pure Python.
+pycryptodome==3.15.0          # Cryptographic library for secure encryption.
+pydantic==1.9.2               # Data validation using Python type hints.
+pydeck==0.8.0b1               # Deck.gl bindings for rendering large-scale WebGL maps.
+Pygments==2.13.0              # Syntax highlighter for code blocks.
+Pympler==1.0.1                # Monitors memory usage of Python objects.
+PyMySQL==1.0.2                # MySQL client library written in pure Python.
+pyparsing==3.0.9              # Library for parsing and analyzing structured text.
+pyresparser==1.0.6            # Extracts information from resumes (name, email, etc.).
+pyrsistent==0.18.1            # Persistent/immutable data structures.
+python-dateutil==2.8.2        # Extensions to Python's datetime module.
+pytz==2022.2.1                # Timezone definitions for Python datetime.
+pytz-deprecation-shim==0.1.0.post0  # Helps transition from pytz to zoneinfo.
+ratelim==0.1.6                # Rate-limit function calls.
+regex==2022.8.17              # Enhanced regular expressions module.
+requests==2.28.1              # HTTP library for making web requests.
+rich==12.5.1                  # Rich text and formatting in terminal output.
+semver==2.13.0                # Semantic versioning library.
+six==1.16.0                   # Python 2 and 3 compatibility utilities.
+smart-open==5.2.1             # Stream large files from S3, GCS, etc.
+smmap==5.0.0                  # Memory map files, used by GitPython.
+sortedcontainers==2.4.0       # Fast and pure-Python implementation of sorted collections.
+spacy==2.3.5                  # Industrial-strength NLP library.
+spacy-legacy==3.0.10          # Compatibility for older spaCy components.
+spacy-loggers==1.0.3          # Logging utilities for spaCy.
+srsly==1.0.5                  # Serialization library used by spaCy.
+streamlit==1.12.2             # Framework for creating data apps and dashboards.
+streamlit-tags==1.2.8         # Adds tag input support for Streamlit.
+tenacity==8.0.1               # Retry code for functions that may fail.
+thinc==7.4.5                  # spaCy’s lightweight deep learning library.
+toml==0.10.2                  # Parses and writes TOML configuration files.
+toolz==0.12.0                 # Functional programming utilities for iterators and functions.
+tornado==6.2                  # Web framework and asynchronous networking library.
+tqdm==4.64.1                  # Progress bars for loops and operations.
+typer==0.4.2                  # CLI app creation library using type hints.
+typing_extensions==4.3.0      # Backport of typing features for older Python versions.
+tzdata==2022.2                # IANA timezone database files.
+tzlocal==4.2                  # Get the local timezone info from the OS.
+urllib3==1.26.12              # HTTP client library with connection pooling.
+validators==0.20.0            # Validates URLs, emails, etc.
+wasabi==0.10.1                # Lightweight console logger with colors and formatting.
+watchdog==2.1.9               # Observes filesystem changes (used in dev tools).
+zipp==3.8.1                   # Backport of zipfile with path-like interface.
